@@ -1,0 +1,23 @@
+mode: set
+github.com/bdichter/bookings/internal/render/render.go:20.40,22.2 1 1
+github.com/bdichter/bookings/internal/render/render.go:25.84,31.2 5 1
+github.com/bdichter/bookings/internal/render/render.go:34.105,37.18 2 1
+github.com/bdichter/bookings/internal/render/render.go:46.2,47.9 2 1
+github.com/bdichter/bookings/internal/render/render.go:52.2,59.16 5 1
+github.com/bdichter/bookings/internal/render/render.go:64.2,64.12 1 1
+github.com/bdichter/bookings/internal/render/render.go:37.18,41.3 1 0
+github.com/bdichter/bookings/internal/render/render.go:41.8,43.3 1 1
+github.com/bdichter/bookings/internal/render/render.go:47.9,50.3 1 1
+github.com/bdichter/bookings/internal/render/render.go:59.16,62.3 2 0
+github.com/bdichter/bookings/internal/render/render.go:68.67,74.16 3 1
+github.com/bdichter/bookings/internal/render/render.go:79.2,79.29 1 1
+github.com/bdichter/bookings/internal/render/render.go:101.2,101.21 1 1
+github.com/bdichter/bookings/internal/render/render.go:74.16,76.3 1 0
+github.com/bdichter/bookings/internal/render/render.go:79.29,82.17 3 1
+github.com/bdichter/bookings/internal/render/render.go:86.3,87.17 2 1
+github.com/bdichter/bookings/internal/render/render.go:91.3,91.23 1 1
+github.com/bdichter/bookings/internal/render/render.go:98.3,98.21 1 1
+github.com/bdichter/bookings/internal/render/render.go:82.17,84.4 1 0
+github.com/bdichter/bookings/internal/render/render.go:87.17,89.4 1 0
+github.com/bdichter/bookings/internal/render/render.go:91.23,93.18 2 1
+github.com/bdichter/bookings/internal/render/render.go:93.18,95.5 1 0
